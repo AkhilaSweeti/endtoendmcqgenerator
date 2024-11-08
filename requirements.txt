@@ -1,0 +1,16 @@
+pandas
+notebook
+numpy
+matplotlib
+seaborn
+pyYAML
+tqdm
+path
+types-PyYAML
+openai
+langchain
+streamlit
+python-dotenv
+PyPDF2
+
+-e .
